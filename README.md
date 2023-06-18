@@ -15,7 +15,7 @@
 
 - 📫Reach me at **sairamakopparty@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/z0elc](https://rb.gy/z0elc)
+- 📄 Know about my experiences [Resume](https://rb.gy/z0elc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
