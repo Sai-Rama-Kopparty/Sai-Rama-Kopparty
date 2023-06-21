@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 💬 Ask me about **Data Science , Machine Learning**
+- 💬 Ask me about : **Data Science , Machine Learning**
 
 - 📫Reach me at **sairamakopparty@gmail.com**
 
