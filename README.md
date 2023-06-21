@@ -13,9 +13,9 @@
 
 - 💬 Ask me about : **Data Science , Machine Learning**
 
-- 📫Reach me at **sairamakopparty@gmail.com**
+- 📫Reach me at -> **sairamakopparty@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://rb.gy/z0elc)
+- 📄 Know about my experiences : [Resume](https://rb.gy/z0elc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
