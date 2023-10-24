@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Real Time Voice Cloning application**
 
-- 🌱 I’m currently learning **AWS-Cloud**
+- 🌱 I’m currently learning **AWS-Cloud** and **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
